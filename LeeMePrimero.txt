@@ -1,0 +1,15 @@
+Esta aplicacion lee las noticias Feed RSS utilizando
+
+1.- Usa una arquitectura MVC y FullRest.
+
+2.-Simplepie como lector Feed y parcer XML,
+  más informacion en http://simplepie.org/ 
+ 
+3.-Usa un componente  llamado JSGrid para el
+despliege del contenido, más infomacion en:
+http://js-grid.com/
+
+ Los componentes de terceros son propiedad
+de los autores corresponidentes y distribuidos bajo
+licencia MIT, más detalles en los sitios de cada
+autor.

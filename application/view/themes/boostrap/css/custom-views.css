@@ -1,0 +1,156 @@
+.heading {
+	margin: auto;
+	color: #fff;
+	padding: 3px 10px;
+	cursor: pointer;
+	position: relative;
+	background: #099;
+}
+.contentShow {
+    padding: 5px 10px;
+	background-color:#f4fafa;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: right;
+	border:1px solid #cbeae7;
+
+}
+
+.contentHide
+{
+	padding: 5px 10px;
+	background-color:#f4fafa;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: right;
+    border:1px solid #cbeae7;
+}
+.headingE {
+	margin: auto;
+	color: #fff;
+	padding: 3px 10px;
+	cursor: pointer;
+	position: relative;
+	background: #F33;
+}
+
+.contentE {
+	padding: 5px 10px;
+	background-color:#feece5;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: right;
+    border:1px solid #fda27f;
+}
+.headingG {
+	margin: auto;
+	color: #fff;
+	padding: 3px 10px;
+	cursor: pointer;
+	position: relative;
+	background: #98d2f0;
+}
+
+.contentG {
+	padding: 5px 10px;
+	background-color:#f4fafd;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: right;
+    border:1px solid #98d2f0;
+}
+
+.headingS {
+	margin: auto;
+	color: #fff;
+	padding: 3px 10px;
+	cursor: pointer;
+	position: relative;
+	background:  #92c47e ;
+}
+
+.contentS {
+	padding: 5px 10px;
+	background-color:#f5fbf3;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: right;
+    border:1px solid  #92c47e ;
+}
+
+.headingC {
+	margin: auto;
+	color: #fff;
+	padding: 3px 10px;
+	cursor: pointer;
+	position: relative;
+	background: #9a5ed6;
+}
+
+.contentC {
+	padding: 5px 10px;
+	background-color:#f3edfa;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: right;
+    border:1px solid #bb94e4;
+}
+#txtTablaE {	
+	padding: 6px; 
+	display: block; 
+	/*border: solid #fda27f 1px; */
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-size: 12px;
+	
+}
+.mayusculas {
+	text-transform:uppercase; 
+}
+#obligatorio
+{
+   
+    font-size: 10px;
+    color: #F00;
+    font-family: Helvetica, Arial, Verdana, sans-serif;	
+	font-style: normal;
+	font-weight: bold;   
+   
+}
+#bordeTabla {	
+	padding: 6px; 
+	display: block; 
+	border: solid #b9e3df 1px; 
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-size: 12px;	
+}
+#borde {	
+	padding: 6px; 
+	display: block; 
+}
+
+#borde fieldset{
+	
+	border: solid #b9e3df 1px; 
+	background-color: #f7fff7; 
+}
+
+
+#borde table{
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-size: 12px;
+}
+
+#borde table.acceso{	
+	font-size: 14px;
+}
+
+#borde legend{
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+#borde legend.acceso {
+	font-size: 14px;
+	
+}

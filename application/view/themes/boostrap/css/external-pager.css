@@ -1,0 +1,21 @@
+.external-pager {
+        
+            margin: 10px 0;
+             background-color :  #fff;
+}
+
+.external-pager .jsgrid-pager-current-page {
+            background: #ffbf00;
+            color: #fff;
+}
+  .jsgrid-grid-header,
+.jsgrid-grid-body{
+  overflow: auto;
+}
+.jsgrid {
+  overflow: visible;
+}
+.jsgrid-grid-header,
+.jsgrid-grid-body{
+  overflow: visible;
+}

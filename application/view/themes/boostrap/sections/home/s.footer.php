@@ -1,0 +1,1 @@
+<div id="footer" name="footer" ><p align="center">  &copy;<?php echo date('Y') ;?> Todos los Derechos Reservados.<br/></p></div>

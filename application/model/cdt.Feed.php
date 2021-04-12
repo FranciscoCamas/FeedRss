@@ -1,0 +1,1 @@
+<?phprequire_once "ObjetoPersistente.php";class Feed extends objPersistente {public function __construct() { $this->table           = "Feeds"; $this->CampoID         = "IDFeed"; $this->tablaCompleta   = "view_Feeds"; $this->IDtablaCompleta = "IDview_Feed";  }}?>

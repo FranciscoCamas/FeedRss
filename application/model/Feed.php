@@ -1,0 +1,1 @@
+<?phpclass Feed { public $id; public $Image_link;  public $Image_title;  public $Image_url;  public $Image_width;  public $Image_height;  public $Imagelink;  public $Permalink;  public $Title;  public $Description;  public $Sourcepermalink;  public $Sourcetitle;  public $Date;  public $Categories;  }?>
