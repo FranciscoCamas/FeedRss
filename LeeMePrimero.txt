@@ -1,4 +1,4 @@
-Esta aplicacion lee las noticias Feed RSS utilizando
+Esta aplicacion lee las noticias Feed RSS utilizando:
 
 1.- Usa una arquitectura MVC y FullRest.
 
