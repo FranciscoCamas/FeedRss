@@ -9,6 +9,13 @@ Esta aplicacion lee las noticias Feed RSS utilizando:
 despliege del contenido, más infomacion en:
 http://js-grid.com/
 
+ Para que el lector funcione con algunos diarios
+y Google News, es necesario que el servidor local
+tenga habilitado el uso de certificados SSL para
+cURL, para más detalles lea:
+ https://stackoverflow.com/questions/29822686/curl-error-60-ssl-certificate-unable-to-get-local-issuer-certificate
+ https://curl.se/docs/caextract.html
+ 
  Los componentes de terceros son propiedad
 de los autores corresponidentes y distribuidos bajo
 licencia MIT, más detalles en los sitios de cada
