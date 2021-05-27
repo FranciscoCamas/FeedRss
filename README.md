@@ -3,6 +3,8 @@
 
 Repositorio para el proyecto final de la asignatura optativa </br>
 Optimización de Aplicaciones Web. </br>
+Segunda entrega del Lector de Noticas FeedRss
+
 Profesor: Dr. Víctor Hugo Menéndez Domínguez</br>
 
  Equipo:
