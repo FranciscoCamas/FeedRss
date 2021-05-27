@@ -1,2 +1,1 @@
-<link rel="stylesheet" type="text/css" href="<?php echo __DIST__;?>boostrap3.3.5/css/bootstrap.min.css"/><link rel="stylesheet" type="text/css" href="<?php echo __CSS__;?>custom.css"/><link rel="stylesheet" type="text/css" href="<?php echo __CSS__;?>sb-admin-2.css"/>
-<!--#CSSADICIONALES#-->
+<link rel="stylesheet" type="text/css" href="<?php echo __DIST__;?>boostrap3.3.5/css/bootstrap.min.css"/><link rel="stylesheet" type="text/css" href="<?php echo __CSS__;?>feed.min.css"/><!--#CSSADICIONALES#-->

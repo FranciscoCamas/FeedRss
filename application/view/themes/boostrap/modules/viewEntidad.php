@@ -676,6 +676,30 @@ public function GeneraModalFormPrintFootherInicio( ) {
 return  $unModalFootherInicio;
 }
 
+public function GeneraTap($sTabsHeaderArray, $sHrefArray){
+ 
+ $unTapModal ="<ul class='nav nav-tabs'>";
+ 
+ $unTapModal.= "<li class='active'><a data-toggle='tab' href='#".$sHrefArray[0]."'>".$sTabsHeaderArray[0]." </a></li>";
+ for($i=1; $i<count($sTabsHeaderArray); $i++) 
+ $unTapModal.= "<li><a data-toggle='tab' href='#".$sHrefArray[$i]."'>".$sTabsHeaderArray[$i]."</a></li>";
+ 
+ $unTapModal.="</ul>";
+
+ return $unTapModal;
+}
+
+public function GeneraTapPanel(){
+ $unTapModal = "<div class='panel-body'>";
+ $unTapModal.= "<div class='tab-content'>";
+ return $unTapModal;
+}
+
+public function GeneraTapPanelEnd(){
+ $unTapModal = "</div>";
+ $unTapModal.= "</div>";
+ return $unTapModal;
+}
 }
 
 ?>

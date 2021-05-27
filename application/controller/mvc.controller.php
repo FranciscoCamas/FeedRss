@@ -103,7 +103,7 @@ class mvc_controller {
     if ($value != "") {
       $jsPage = __JS_DIR__."".$value;
       if( is_file( $jsPage ) )
-         $Scrip .= "<script  charset='utf-8' src=".chr(34).$jsPage.""."".chr(34)."></script>";
+         $Scrip .= "<script rel=preload charset='utf-8' src=".chr(34).$jsPage.""."".chr(34)."></script>";
 	  }
 
 	 return $Scrip ;
