@@ -1,4 +1,11 @@
-Este es un respaldo de la base de datos, 
-contiene informacion del de los Feeds RSS
-proporcionados por el Diario de Yucatán
-al dia 12 de abril del 2021
+ Este es un respaldo de la base de datos, 
+forma parte de la segunda entrega de proyecto
+de la asignatura OAW.
+
+Contiene información de los Feeds RSS
+proporcionados por:
+ Diario de Yucatán
+ Por Esto.
+ NY Times
+ Google News 
+al dia 27 de mayo del 2021
