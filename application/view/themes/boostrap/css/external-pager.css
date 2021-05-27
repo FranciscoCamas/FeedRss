@@ -1,7 +1,6 @@
 .external-pager {
-        
-            margin: 10px 0;
-             background-color :  #fff;
+                background-color :  #fff;
+width: 75%; margin-bottom: 15px;  border-radius:0; box-shadow: 0 0px 5px 5px  rgba(0,0,0,.1);
 }
 
 .external-pager .jsgrid-pager-current-page {
@@ -14,8 +13,11 @@
 }
 .jsgrid {
   overflow: visible;
+   border:0;
 }
 .jsgrid-grid-header,
 .jsgrid-grid-body{
   overflow: visible;
+  margin: 0;
+   border:0;
 }
